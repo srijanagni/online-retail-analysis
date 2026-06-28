@@ -1,0 +1,23 @@
+# Raw data (too large for GitHub)
+data/online_retail.xlsx
+data/retail.db
+
+# Generated CSVs (optional - uncomment to exclude)
+# data/cleaned_retail.csv
+# data/rfm_segments.csv
+# data/monthly_summary.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
